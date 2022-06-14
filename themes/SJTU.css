@@ -3,14 +3,14 @@
 
 @charset "UTF-8";
 @import 'default';
-@import url('https://fonts.googleapis.com/css?family=Lato:400,900|Roboto+Mono:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700&family=Noto+Serif+SC:wght@500;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 @import '~highlight.js/styles/sunburst';
 
 section {
   font-size: 25px;
   padding: 50px;
   text-align: left;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Noto Serif SC', Roboto, Lato, Arial, Helvetica, sans-serif;
   background: #ffffff;
   }
  
